@@ -1,0 +1,44 @@
+.nav-link{
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+   
+  }
+  .navbar{
+    background-color:#28243c;
+    color: #fff;
+    font-family: 'Anek Latin', sans-serif;
+    font-size: 17px;
+  }
+  .nav-link:hover{
+    color:#25d40e;
+  }
+  
+  html body {
+    background-color:#d0d1d0ed;}
+
+  .brand{
+    font-size: 35px;
+    text-decoration: none;
+  }
+  .post-img1{
+    height: 20px;
+  }
+  
+.para{
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 450;
+  color: #0a0a0a;
+}
+.heading{
+  font-size: 33px;
+}
+.subhead{
+  font-size: 28px;
+}
+.para-2{
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 450;
+  color: #0a0a0a;
+}
